@@ -23,9 +23,9 @@ A IA possui lógica para:
 
 ## Preview
 - Seleção de modo de jogo
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 - Jogo em andamento
-![alt text](image.png)
+![alt text](assets/image.png)
 
 ## Demo
 https://HerculeGarrido.github.io/jogo_da_velha/
